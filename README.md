@@ -35,6 +35,13 @@ pip install numpy pandas nltk scikit-learn
 How to Run
 python movie_recommendation.py
 
+How to Run
+
+Clone this repository:
+
+git clone https://github.com/sumit7859/Movie-Recommendation-System.git
+
+Open the project folder in VS Code. Install the required libraries. Open the Jupyter Notebook or Python file. Run the code to perform data analysis, train the model, and generate predictions.
 Recommendation Method
 Content-Based Filtering using Cosine Similarity.
 Developed With
